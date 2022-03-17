@@ -118,7 +118,9 @@ function App() {
     <div className="App">
       <div className="Input">
       <h1>Parking Prediction System by Ziyao Wang</h1>
+      <a href="https://www.ziyaowang19971002.com/">To my personal website</a>
       <p>ziyaow@umich.edu</p>
+
 
         <form onSubmit={handleSubmit}>
         <label for="appt">Choose a parking time :</label>
@@ -130,7 +132,6 @@ function App() {
         <h1>Result</h1>
         <img src={outputFileData} alt="" />
       </div>
-      <a href="https://www.ziyaowang19971002.com/">To my personal website</a>
       <a href="https://www.ziyaowang19971002.com/home/project-page/project1_spec">Click here for detailed project technical report</a>
     </div>
   );
