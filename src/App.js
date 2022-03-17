@@ -130,6 +130,7 @@ function App() {
         <h1>Result</h1>
         <img src={outputFileData} alt="" />
       </div>
+      <a href="https://www.ziyaowang19971002.com/">To my personal website</a>
       <a href="https://www.ziyaowang19971002.com/home/project-page/project1_spec">Click here for detailed project technical report</a>
     </div>
   );
